@@ -36,3 +36,10 @@ nav ul li {
 a:hover {
   color: #f33;
 }
+
+a {
+  text-align: center;
+  list-style-type: none;
+  text-decoration: none;
+  color: #fff;
+}
