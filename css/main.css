@@ -17,19 +17,20 @@ body {
 
 h1 {
   display: block;
-  font-family: 'Bevan', cursive;
+  font-family: 'Bevan', sans-serif;;
   color: #fff;
   text-align: center;
 }
 
-ul {
-  list-style-type: none;
-}
-
-.first {
+nav ul li {
   display: inline-block;
   margin: 0.3em;
   padding: .6em 0.5em 0.75em;
   list-style-type: none;
+  text-decoration: none;
   text-align: center;
+}
+
+a:hover {
+
 }
