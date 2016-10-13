@@ -1,7 +1,6 @@
 html {
   box-sizing: border-box;
   background-color: #dbd6cf;
-  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -21,6 +20,7 @@ h1 {
   font-family: 'Bevan', sans-serif;;
   color: #fff;
   text-align: center;
+  line-height: 1.5;
 }
 
 nav ul li {
