@@ -27,15 +27,13 @@ nav ul li {
   display: inline-block;
   margin: 0.3em;
   padding: .6em 0.5em 0.75em;
-  list-style-type: none;
-  text-decoration: none;
   text-align: center;
   font-family: sans-serif, serif;
   background-color: #713837;
 }
 
 a:hover {
-  color: #f33;
+  background-color: #f33;
 }
 
 a {
