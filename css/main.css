@@ -32,5 +32,6 @@ nav ul li {
 }
 
 a:hover {
-
+  background-color: #713837;
+  color: #fff;
 }
